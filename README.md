@@ -1,1 +1,1 @@
-# Carrito de compras hecha con HTML, CSS y JavaScript
+# Carrito de compras hecho con HTML, CSS y JavaScript
